@@ -1,0 +1,177 @@
+body{
+	height:1000px;
+	color:0000;
+	
+	
+}
+
+#divHeading {
+	width:1060px;
+	background:url(/images/headingmain.jpg);
+	height:20px;
+	padding-right:120px ;
+	padding-top:2px;
+	padding-bottom:15px;
+	text-align:center;
+	padding-left:25px;
+	border-radius:5px;	
+	}
+
+#divHeading ul {
+	list-style-type:none;
+}
+
+#divHeading ul li  a {
+	
+	display:block;	
+	float:left;
+	font-size:20px;
+	text-decoration:none;
+	line-height:0px;
+	width:250px;
+	margin:1px;
+	font-weight:bold;
+	color:white;
+	height:10px;
+	
+
+}
+
+#divHeading ul li a:hover {
+	
+	font-size:40px;
+}
+
+
+
+#divLine {
+	width:1200px;
+	background:black;
+	height:1px;
+}
+
+
+#divBody {
+	
+	background-color:black;
+	width:1165px;	
+	height:1600px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	
+	border-radius:20px;
+	font-size:40px;
+	color:red;
+}
+ 
+ 
+#divBody a {
+	text-decoration:none;
+}
+
+#divCenter {
+	
+	background-color:black;
+	width:1065px;	
+	height:1200px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	
+	border-radius:20px;
+	font-size:25px;
+	color:#333;
+}
+
+#divCenter a {
+	text-decoration:none;
+}
+
+#divCenter form input[type="submit"] {
+	font-size:25;
+	color:red;
+}
+
+#divLogin {
+	
+	background:#ffffff;
+	width:1065px;	
+	height:900px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	
+	border-radius:20px;
+	font-size:25px;
+	color:#333;
+}
+
+#divLogin a {
+	text-decoration:none;
+}
+
+#divLogin form input[type="submit"] {
+	font-size:25;
+}
+#divQ {
+	
+	background:#ffffff;
+	width:1065px;	
+	height:1075px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	
+	border-radius:20px;
+	font-size:25px;
+	color:#333;
+}
+
+#divQ a {
+	text-decoration:none;
+}
+
+#divQ form input[type="text"] {
+	width:250;
+	height:25;
+	font-style:sans-serif;
+}
+#divQ form input[type="submit"] {
+	font-size:25;
+}
+
+
+#divR {
+	
+	background:#ffffff;
+	width:1065px;	
+	height:1900px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	
+	border-radius:20px;
+	font-size:25px;
+	color:#333;
+}
+
+#divR a {
+	text-decoration:none;
+}
+
+#divR form input[type="text"] {
+	width:250;
+	height:25;
+	font-style:sans-serif;
+	color:red;
+  
+}
+#divR form input[type="submit"] {
+	font-size:25;
+	color:red;
+}
+
+#divR table tr td {
+	font-size:30;
+}

@@ -1,0 +1,52 @@
+<html>
+<head>
+<title> Level 2 </title>
+<link rel=stylesheet href="/stylesheets/best.css">
+</head>
+<body>
+<center>
+<div id="divHeading">
+
+	
+	<ul>
+		
+		<li> <a href="/rules">  Rules </a> </li>
+		<li> <a href="/ranking"> Ranking </a> </li>
+		<li> <a href="http://www.facebook.com/Chakravyuha2012/app_202980683107053"> Forum </a> </li>
+		<li> <a href="/logout"> Logout </a> </li>
+				
+	</ul>
+	
+</div>
+<div id="divLine"> </div>
+<br> 
+
+<div id="divQ">
+<img src="/images/sadnoobffs.png" height= "200" "> 
+<br> <br> <br>
+<font size="50" color="blue">
+
+
+
+
+<img src="/images/troll.jpg" height="250" width="250"> 
+<br>
+<img src="/images/jena.jpg" > 
+</font>
+<br>
+<form method="post">
+<label>
+<input type="text" name="ans">
+<input type="submit" value="answer">
+<pre>
+<font color="red">
+{{error}}
+<br>
+</font>
+Number of Incorrect Tries:
+<br>
+{{Tries}}
+</div>
+</body>
+</label>
+</form>

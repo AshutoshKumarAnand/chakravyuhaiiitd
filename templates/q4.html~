@@ -1,0 +1,46 @@
+<html>
+<head>
+<title> Level 4 </title>
+<link rel=stylesheet href="/stylesheets/best.css">
+</head>
+<body>
+<center>
+<div id="divHeading">
+
+	
+	<ul>
+		
+		<li> <a href="/rules">  Rules </a> </li>
+		<li> <a href="/ranking"> Ranking </a> </li>
+		<li> <a href="/forum"> Forum </a> </li>
+		<li> <a href="/logout"> Logout </a> </li>
+				
+	</ul>
+	
+</div>
+<div id="divLine"> </div>
+<br> 
+
+<div id="divQ">
+<img src="/images/chakravyuha.jpg"> 
+<br> <br> <br>
+<font size="50" color="blue">
+
+<img src="/images/maharaja.png">
+</font><br>
+<form method="post">
+<label>
+<input type="text" name="ans">
+<input type="submit" value="answer">
+<pre>
+<font color="red">
+{{error}}
+</font>
+<br>
+Number of Incorrect Tries:
+<br>
+{{Tries}}
+</div>
+</body>
+</label>
+</form>

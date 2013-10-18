@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!-- saved from url=(0054)http://twitter.github.com/bootstrap/examples/hero.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Chakravyuha</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="/stylesheets/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+  <style type="text/css"></style></head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/">Chakravyuha</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+			<li><a href="/">Home</a></li>
+              <li class="active"><a href="/rules">Rules</a></li>
+              <li><a href="/ranking">Ranking</a></li>
+			  <li><a href="https://www.facebook.com/Chakravyuha2012/app_202980683107053">Forum</a></li>
+              <li><a href="/team">Team</a></li>
+            
+			
+			
+            </ul>
+<!--			<ul class="nav pull-right">
+                       <a href="front.html" class="btn btn-primary" type="button">Logout</a>
+              </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <!-- Main hero unit for a primary marketing message or call to action -->
+      
+<h1>Rules</h1>
+<ul>
+<li>There are 25 levels and you have to solve each puzzle in every level to advance to higher levels</li>
+<li>Clues towards solving any puzzle may be hidden anywhere in the website, be it the source code, image details or the page title</li>
+<li>All the puzzles have been designed such that you may not need any hints for solving them however if you feel like you have tried all the possibilities or you are in an absolutely wrong direction you may feel free to use the forum</li>
+<li>Answers are to be written in the answer box/URL in small letters without any space</li>  
+<li>Are you a God of hacking? Thats great we would love to hear from you. But sadly you wont be able to display your hacking skills in Chakravyuha. Any attempt towards the same would result in elimination :s</li>
+<li>Taken in the right spirit Chakravyuha promises to be fun and a great learning experience. So please dont spoil it by trying to cheat in the competition or indecent behaviour. Any instance of cheating will be dealt with elimination (its so easy to get eliminated here :p) .</li>
+<li>What constitutes cheating/indecent behaviour ?</li>
+<ul>
+<li>Pinging fellow contestants for answers/hints. For hints you may consult us using the forums and as far as the answers are concerned, seriously whats the point of participating in a treasure hunt if you want to get the answers served on a plate.</li>
+<li>Using abusive language in the forum</li>
+<li>Writing answers in the forum. If you feel like you need to confirm whether you are in the right direction towards solving the puzzle then simply do that without letting others know whats on your mind.</li> 
+</ul>
+<li>The first one to solve all the 25 levels would be declared the winner and the contest will be closed there and then. However if no one completes the 25 levels in the stipulated time (8th - 19th October 2012) then the topper in the leader board would be declared the winner.</li>
+<li>In all there are 5 prizes to be won - 1st and 2nd prize and 3 other prizes for whoever solves the 3 special levels first.</li>
+<li>And last but not the least the golden rule: Mod is God</li>
+</ul>
+
+      <hr>
+
+      <footer>
+        <p><a href="http://esya.iiitd.ac.in">© Esya 2012</a></p>
+      </footer>
+
+    </div> <!-- /container -->
+
+
+</body></html>

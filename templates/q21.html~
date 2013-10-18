@@ -1,0 +1,51 @@
+<html>
+<head>
+<title> Level 20 Traps </title>
+<link rel=stylesheet href="/stylesheets/best.css">
+<body>
+<center>
+<div id="divHeading">
+
+	
+	<ul>
+		
+		<li> <a href="/rules">  Rules </a> </li>
+		<li> <a href="/ranking"> Ranking </a> </li>
+		<li> <a href="http://www.facebook.com/Chakravyuha2012/app_202980683107053"> Forum </a> </li>
+		<li> <a href="/logout"> Logout </a> </li>
+				
+	</ul>
+	
+</div>
+<div id="divLine"> </div>
+<br> 
+
+<div id="divQ">
+<!Where did foo fighters come from -!>
+<img src="/images/sadnoobffs.png" height= "200" "> 
+<br> <br> 
+<font size="50">
+
+5459N7322E
+</font>
+
+<br>
+
+<form method="post">
+<label>
+<input type="text" name="ans">
+<input type="submit" value="answer">
+<pre>
+<font color="red">
+
+
+{{error}}
+<br>
+Number of Incorrect Tries:
+<br>
+{{Tries}}
+</label>
+</form>
+</div>
+</body>
+

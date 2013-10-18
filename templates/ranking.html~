@@ -1,0 +1,36 @@
+<html>
+<head>
+<link rel=stylesheet href="/stylesheets/try.css">
+</head>
+
+<body>
+
+<div id="divWelcome">
+<img src="/images/logo.png" height="150" width="450"> <font size="5"> Presents </font> 
+<img src="/images/Chakravyuha.png" height="150" width="450">
+<br>
+<a href="/rankall"> Ranking </a> 
+<a href="/rules"> Rules </a> 
+<a href="forum"> Forum </a> 
+<a href="/logout"> Logout </a>
+</div>
+
+
+
+
+
+<center> Ranking  <center>
+<br>
+<br>
+<div id="divCenter" align="center"> 
+<label>
+
+
+{% for p in people %}
+<pre> {{p.name}}    {{p.Level}}  {{p.key().id()}}     </pre>
+	
+{% endfor %}
+</label>
+</div>
+</body>
+</html>

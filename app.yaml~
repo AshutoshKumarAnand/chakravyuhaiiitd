@@ -1,0 +1,19 @@
+application: chakraiiitd
+version: 1
+api_version: 1
+threadsafe: true
+runtime: python27
+handlers:
+- url: /stylesheets
+  static_dir: stylesheets
+
+- url: /images
+  static_dir: images 
+
+- url: /.*
+  script: chakra.app
+
+
+libraries:
+- name: jinja2
+  version: latest

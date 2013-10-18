@@ -1,0 +1,50 @@
+<html>
+<head>
+<title> Level 11 </title>
+<link rel=stylesheet href="/stylesheets/best.css">
+<body>
+<center>
+<div id="divHeading">
+
+	
+	<ul>
+		
+		<li> <a href="/rules">  Rules </a> </li>
+		<li> <a href="/ranking"> Ranking </a> </li>
+		<li> <a href="/forum"> Forum </a> </li>
+		<li> <a href="/logout"> Logout </a> </li>
+				
+	</ul>
+	
+</div>
+<div id="divLine"> </div>
+<br> 
+<!- Tom and Jerry is the damn best cartoon series ever made, Japnese bullshit shown nowadays sucks -!>
+<div id="divQ">
+<img src="/images/chakravyuha.jpg"> 
+<br> <br> 
+<font size="10" color="red">
+<img src="/images/710.jpg"> 
+<br>
+<br>
+</font>
+
+<br>
+<br>
+<form method="post">
+<label>
+<input type="text" name="ans">
+<input type="submit" value="answer">
+<pre>
+<font color="red">
+{{error}}
+<br>
+Number of Incorrect Tries:
+<br>
+{{Tries}}
+
+</label>
+</form>
+</div>
+</body>
+

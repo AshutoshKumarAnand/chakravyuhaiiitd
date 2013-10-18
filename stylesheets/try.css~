@@ -1,0 +1,182 @@
+
+
+
+body {
+    position: relative;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    background-color: yellow;
+    
+    width: 1300px;
+    margin: 0 auto;
+    padding: 10px;
+    color: red;
+    
+}
+
+#divHeading {
+	
+	width:1300px;
+	text-align:center;
+	background:url(/images/head.jpg);
+}
+
+#Line {
+	width: 1300px;
+	height: 5px;
+	background:black;
+}
+
+#divLeft {
+	
+	float: left;
+	height:800px;
+	width:200px;
+	font-size:40px;
+	background:url(/images/lr2.jpg);
+	text-align:center;
+	
+}
+
+#divLeft ul {
+	list-style-type: none;
+	text-align:center;
+
+}
+
+#divLeft ul li a {
+	font-size:40px; 
+	
+	padding-top: 100px;
+	display:block;
+	height:80px;
+	width:200px;
+	background:black;
+	text-decoration:none;
+	text-align:center;
+	line-height: 20px;
+	
+	margin:50px -40px;
+	
+	font-weight: bold;
+	color: white;
+
+/* Border Fancying*/
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+
+}
+
+#divLeft ul li a:hover {
+	background: red;
+} 
+
+
+#divLeft ul li a.current , #divLeft ul li a.current:hover {
+	background:blue;
+	color:orange;
+	cursor: default;
+}
+
+#divCenter{
+	float:center;
+	text-align:center;
+	padding-top:30px;
+	font-size:20px;
+	color:teal;
+}
+
+#divCenter form input[type=text] {
+	width:300px;
+	height:25px;
+	font-size:20px;
+}
+
+#divCenter form input[type=submit] {
+	font-size:30px;
+}
+
+
+#divRight {
+	
+	float: right;	
+	height:800px;
+	width:200px;
+	background:url(/images/lr2.jpg);
+}
+
+#divRight ul li a {
+	font-size:40px; 
+	
+	padding-top: 100px;
+	display:block;
+	height:80px;
+	width:200px;
+	background:black;
+	text-decoration:none;
+	text-align:center;
+	line-height: 20px;
+	
+	margin:50px -40px;
+	
+	font-weight: bold;
+	color: white;
+
+/* Border Fancying*/
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+
+}
+
+#divRight ul {
+	list-style-type: none;
+	text-align:center;
+
+}
+
+#divRight ul li a:hover {
+	background: red;
+} 
+
+
+#divRight ul li a.current , #divLeft ul li a.current:hover {
+	background:blue;
+	color:orange;
+	cursor: default;
+}
+
+
+
+
+#divWelcome {
+padding-top:20px;
+width:1300px;
+height:250px;
+text-align:right;
+background:url(/images/head.jpg);
+
+}
+
+#divWelcome a{
+	font-size:30px; 
+	float:left;
+	
+	display:block;
+	
+	
+	height:0px;
+	width:210px;
+	background:black;
+	text-decoration:none;
+	text-align:center;
+	line-height: 10px;
+	
+	margin:50px;
+	
+	font-weight: bold;
+	color: white;
+	
+}
+
+
+

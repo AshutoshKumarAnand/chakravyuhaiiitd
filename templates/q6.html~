@@ -1,0 +1,57 @@
+<html>
+<head>
+<title> Level 5 </title>
+<link rel=stylesheet href="/stylesheets/best.css">
+<body>
+<center>
+<div id="divHeading">
+
+	
+	<ul>
+		
+		<li> <a href="/rules">  Rules </a> </li>
+		<li> <a href="/ranking"> Ranking </a> </li>
+		<li> <a href="http://www.facebook.com/Chakravyuha2012/app_202980683107053"> Forum </a> </li>
+		<li> <a href="/logout"> Logout </a> </li>
+				
+	</ul>
+	
+</div>
+<div id="divLine"> </div>
+<br> 
+
+<div id="divQ">
+<img src="/images/sadnoobffs.png" height= "200" "> 
+<br> 
+<font size="5">
+<img src="/images/deadly.png" height="350" width="450" title="troy">
+<br>
+<center>
+Exorciser of the demons HE,<br>
+possessed by the Leviathan <br>
+makes Achilles' life hell <br>
+only the free man could see <br>
+his accomplice diving into sin’s sea<br>
+victim of Wrath, to the knees HE fell<br>
+do these names ring any bell<br>
+
+</center>
+</font>
+<br>
+<form method="post">
+<label>
+<input type="text" name="ans">
+<input type="submit" value="answer">
+<pre>
+<font color="red">
+{{error}}
+<br>
+Number of Incorrect Tries:
+<br>
+{{Tries}}
+
+</label>
+</form>
+</div>
+</body>
+

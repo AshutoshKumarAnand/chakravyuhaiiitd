@@ -1,0 +1,15 @@
+home
+
+rules
+team
+ranking
+forum
+
+
+
+front.html
+team.html
+ranking.html
+rules.html
+welcome.html
+sign.html

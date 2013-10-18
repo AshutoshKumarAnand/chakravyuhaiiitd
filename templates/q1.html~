@@ -1,0 +1,53 @@
+<html>
+<head>
+<title> Level 0 </title>
+<link rel=stylesheet href="/stylesheets/best.css">
+</head>
+<body>
+<center>
+<div id="divHeading">
+
+	
+	<ul>
+		
+		<li> <a href="http://esya.iiitd.ac.in/events/Chakravyuha"> Rules </a> </li>
+		<li> <a href="/ranking"> Ranking </a> </li>
+		<li> <a href="http://www.facebook.com/Chakravyuha2012/app_202980683107053"> Forum </a> </li>
+		<li> <a href="/logout"> Logout </a> </li>
+				
+	</ul>
+	
+</div>
+<div id="divLine"> </div>
+<br> 
+
+<div id="divQ">
+<img src="/images/sadnoobffs.png" height=200> 
+<br> <br> <br> <br>
+<font size="50" color="blue">
+etis siht fo eman eht si tahw 
+<br>
+
+</font>	
+
+<br>
+<form method="post">
+<label>
+
+<input type="text" name="ans">
+<input type="submit" value="answer">
+<br>
+<br>
+<pre> {{error}} <pre>
+<pre>
+<br>
+Numer of incorrect tries:
+{{Tries}}
+</pre>
+
+</label>
+</form>
+</div>
+</body>
+</html>
+ 
